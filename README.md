@@ -37,7 +37,10 @@ import plotly.graph_objects as go
 **Temperature of Italy from 1743 to 2013 for each month**
 <img src="https://media.giphy.com/media/xZbonSHrZovvFHylFc/giphy.gif" width="1300">
   
+## Performance of the model
 
+**Prediction vs original data
+<img src="https://cdn-images-1.medium.com/max/1320/1*P0_MrCDm1aqzRU5GQ8t4pw.png">
 
 
 
