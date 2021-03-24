@@ -28,4 +28,5 @@ import plotly.graph_objects as go
 
 ## Exploratory Data Analysis
 
+**Average Global Temperature**
 <img src="https://media.giphy.com/media/fmfeu7MeFKwsQsJ56J/giphy.gif" width="1300">
