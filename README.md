@@ -1,6 +1,6 @@
 # Climate Forecasting with Long Short Term Memory ntworks
 
-The purpose of this model is to apply the Long Short Term Memory networks in order to predict the average temperature trend in Italy. The dataset comes from [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). For additional information about this Model you can read my article on Towards Data Science [here]().
+The purpose of this model is to apply the Long Short Term Memory networks in order to predict the average temperature trend in Italy. The dataset comes from [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). For additional information about this Model you can read my article on Towards Data Science [here](). 
 
 ## Description of the data that I used
 
@@ -43,6 +43,8 @@ import plotly.graph_objects as go
 <img src="https://cdn-images-1.medium.com/max/1320/1*P0_MrCDm1aqzRU5GQ8t4pw.png">
 
 
+## Additional information
+It is also possible to view the code on Google Collaboratory [here.](https://colab.research.google.com/github/moryba/Climate_Analysis/blob/main/climate_analysis.ipynb)
 
 
 
