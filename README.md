@@ -28,4 +28,4 @@ import plotly.graph_objects as go
 
 ## Exploratory Data Analysis
 
-<img src="https://media.giphy.com/media/fmfeu7MeFKwsQsJ56J/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/fmfeu7MeFKwsQsJ56J/giphy.gif" width="1300">
