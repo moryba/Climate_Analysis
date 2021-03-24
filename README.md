@@ -35,6 +35,6 @@ import plotly.graph_objects as go
 <img src="https://media.giphy.com/media/48glxMtr0mESV2qgJP/giphy.gif" width="1300">
 
 **Temperature of Italy from 1743 to 2013 for each month**
-<mg src="https://media.giphy.com/media/xZbonSHrZovvFHylFc/giphy.gif" width="1300">
+<mg src="https://media.giphy.com/media/xZbonSHrZovvFHylFc/giphy.gif" width="300">
   
 
