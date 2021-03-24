@@ -39,7 +39,7 @@ import plotly.graph_objects as go
   
 ## Performance of the model
 
-**Prediction vs original data
+**Prediction vs original data**
 <img src="https://cdn-images-1.medium.com/max/1320/1*P0_MrCDm1aqzRU5GQ8t4pw.png">
 
 
