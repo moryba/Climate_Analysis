@@ -30,3 +30,6 @@ import plotly.graph_objects as go
 
 **Average Global Temperature**
 <img src="https://media.giphy.com/media/fmfeu7MeFKwsQsJ56J/giphy.gif" width="1300">
+
+**Average Temperature from 1743 to 2013**
+<img src="https://media.giphy.com/media/48glxMtr0mESV2qgJP/giphy.gif" width="1300">
