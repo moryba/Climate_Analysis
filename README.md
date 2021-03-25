@@ -44,7 +44,7 @@ import plotly.graph_objects as go
 
 
 ## Additional information
-It is also possible to view the code on Google Collaboratory [here.](https://colab.research.google.com/github/moryba/Climate_Analysis/blob/main/climate_analysis.ipynb)
+It is also possible to view the code on Google Colab [here.](https://colab.research.google.com/github/moryba/Climate_Analysis/blob/main/climate_analysis.ipynb)
 
 
 
