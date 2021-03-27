@@ -7,6 +7,7 @@ The purpose of this model is to apply the Long Short Term Memory networks in ord
 - Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures
 - LandAverageTemperature: global average land temperature in celsius
 - LandAverageTemperatureUncertainty: the 95% confidence interval around the average
+- Country : names of the countries with data available year by year
 
 ## Usage
 ```python
